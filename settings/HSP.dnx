@@ -2,17 +2,17 @@
 <settings>
     <Jet>
         <OnlineReset>Software</OnlineReset>
+        <PrevWtdReset>Software</PrevWtdReset>
+        <JetConnSerialNo>CMSIS-DAP v2:000000800666FF544884654867164416A5A5A5A597969908</JetConnSerialNo>
+        <JetConnFoundProbes />
         <DisableInterrupts>0</DisableInterrupts>
         <LeaveRunning>0</LeaveRunning>
         <MultiCoreRunAll>0</MultiCoreRunAll>
         <CpuHaltOnBreakpointSet>0</CpuHaltOnBreakpointSet>
-        <JetConnSerialNo>CMSIS-DAP v2:000000800666FF544884654867164416A5A5A5A597969908</JetConnSerialNo>
-        <JetConnFoundProbes />
-        <PrevWtdReset>Software</PrevWtdReset>
     </Jet>
     <PlDriver>
-        <MemConfigValue>C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\config\debugger\GD\GD32F470xG.ddf</MemConfigValue>
         <FirstRun>0</FirstRun>
+        <MemConfigValue>C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\config\debugger\GD\GD32F470xG.ddf</MemConfigValue>
     </PlDriver>
     <DebugChecksum>
         <Checksum>3630216389</Checksum>
