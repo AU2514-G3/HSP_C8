@@ -1,57 +1,57 @@
-"D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\Utilities\HSP_TFT18.c"
+"D:\HSP_C8\Utilities\HSP_TFT18.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\Debug\BrowseInfo\Utilities_17002154029713865955.dir\HSP_TFT18.pbi.dep
+D:\HSP_C8\Debug\BrowseInfo\Utilities_17002154029713865955.dir\HSP_TFT18.pbi.dep
 -o
-D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\Debug\BrowseInfo\Utilities_17002154029713865955.dir\HSP_TFT18.pbi
+D:\HSP_C8\Debug\BrowseInfo\Utilities_17002154029713865955.dir\HSP_TFT18.pbi
 -I
-D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\Utilities
+D:\HSP_C8\Utilities
 -I
-D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\Main\
+D:\HSP_C8\Main
 -I
-D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\Board\
+D:\HSP_C8\Board
 -I
-D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\CMSIS\
+D:\HSP_C8\CMSIS
 -I
-D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\CMSIS\GD\GD32F4xx\Include\
+D:\HSP_C8\CMSIS\GD\GD32F4xx\Include
 -I
-D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\GD32F4xx_standard_peripheral\Include\
+D:\HSP_C8\GD32F4xx_standard_peripheral\Include
 -I
-D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\Main\
+D:\HSP_C8\Main
 -I
-D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\Utilities\
+D:\HSP_C8\Utilities
 -I
-D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\App\
+D:\HSP_C8\App
 -I
-D:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\CMSIS\Core\Include\
+D:\Program Files\IAR\arm\CMSIS\Core\Include\
 -I
-D:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\inc\c\aarch32
+D:\Program Files\IAR\arm\inc\c\aarch32
 -I
-D:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\inc
+D:\Program Files\IAR\arm\inc
 -I
-D:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\inc\c
+D:\Program Files\IAR\arm\inc\c
 -I
-D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\Main
+D:\HSP_C8\Main
 -I
-D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\Board
+D:\HSP_C8\Board
 -I
-D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\CMSIS
+D:\HSP_C8\CMSIS
 -I
-D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\CMSIS\GD\GD32F4xx\Include
+D:\HSP_C8\CMSIS\GD\GD32F4xx\Include
 -I
-D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\GD32F4xx_standard_peripheral\Include
+D:\HSP_C8\GD32F4xx_standard_peripheral\Include
 -I
-D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\Main
+D:\HSP_C8\Main
 -I
-D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\Utilities
+D:\HSP_C8\Utilities
 -I
-D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\App
+D:\HSP_C8\App
 -I
-D:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\CMSIS\Core\Include
+D:\Program Files\IAR\arm\CMSIS\Core\Include
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0
@@ -425,8 +425,8 @@ D:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\CMSIS\Core\Include
 -D__EDG_FLOAT128_ENABLING_POSSIBLE=0
 -D__EDG_INT128_EXTENSIONS_ALLOWED=0
 -DGD32F470=1
--D_DLIB_CONFIG_FILE_HEADER_NAME="D:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\inc\c\DLib_Config_Full.h"
--D_DLIB_CONFIG_FILE_STRING="D:\\Program Files\\IAR Systems\\Embedded Workbench 9.2\\arm\\inc\\c\\DLib_Config_Full.h"
+-D_DLIB_CONFIG_FILE_HEADER_NAME="D:\Program Files\IAR\arm\inc\c\DLib_Config_Full.h"
+-D_DLIB_CONFIG_FILE_STRING="D:\\Program Files\\IAR\\arm\\inc\\c\\DLib_Config_Full.h"
 -D__VERSION__="IAR ANSI C/C++ Compiler V9.50.1.380/W64 for ARM"
 -D_VA_DEFINED=
 -D_VA_LIST=struct __va_list

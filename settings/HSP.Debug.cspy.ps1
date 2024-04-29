@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "D:\Program Files\IAR Systems\Embedded Workbench 9.2\common\bin\cspybat" -f "D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\settings\HSP.Debug.general.xcl" --backend -f "D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\settings\HSP.Debug.driver.xcl" 
+& "D:\Program Files\IAR\common\bin\cspybat" -f "D:\HSP_C8\settings\HSP.Debug.general.xcl" --backend -f "D:\HSP_C8\settings\HSP.Debug.driver.xcl" 
 }
 else
 {
-& "D:\Program Files\IAR Systems\Embedded Workbench 9.2\common\bin\cspybat" -f "D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\settings\HSP.Debug.general.xcl" --debug_file=$debugfile --backend -f "D:\Files\SJTU\second_second\engineering4-D\HSPv2 _C8\settings\HSP.Debug.driver.xcl" 
+& "D:\Program Files\IAR\common\bin\cspybat" -f "D:\HSP_C8\settings\HSP.Debug.general.xcl" --debug_file=$debugfile --backend -f "D:\HSP_C8\settings\HSP.Debug.driver.xcl" 
 }

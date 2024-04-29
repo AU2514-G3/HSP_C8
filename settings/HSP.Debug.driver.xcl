@@ -6,7 +6,7 @@
 
 "-p" 
 
-"D:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\config\debugger\GD\GD32F470xG.ddf" 
+"D:\Program Files\IAR\arm\config\debugger\GD\GD32F470xG.ddf" 
 
 "--semihosting" 
 
@@ -15,6 +15,8 @@
 "--multicore_nr_of_cores=1" 
 
 "--jet_probe=cmsisdap" 
+
+"--jet_script_file=D:\Program Files\IAR\arm/config/debugger/GD/GD32.ProbeScript" 
 
 "--jet_standard_reset=1,0,0" 
 
