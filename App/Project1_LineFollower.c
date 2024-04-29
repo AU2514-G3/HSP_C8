@@ -195,9 +195,10 @@ void Project_LFR(void)
 			
 			hsp_image2_binary_minmax(image2_use, image2_temp);
 			pw = hsp_image_judge(image2_temp);
+                        dc = 0;
 			// dc = calculate_speed(pw);
 			
-			dc = calculate_speed(pw,image2_temp,2); // 根据当前和上一次的舵机信号调整速度 
+			// dc = calculate_speed(pw,image2_temp,2); // 根据当前和上一次的舵机信号调整速度 
 			// last_pw = pw; // 更新上一次的舵机信号为当前值 
 			// hsp_motor_voltage(MOTORF, dc); // 应用新的速度设置
 
